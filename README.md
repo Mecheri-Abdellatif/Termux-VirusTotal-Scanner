@@ -27,7 +27,7 @@ saves **HTML reports**, and shows **live notifications**.
 ### Installation:
 ```bash
 pkg update && pkg install -y git
-git clone https://github.com/YOUR_USERNAME/Termux-VirusTotal-Scanner.git
+git clone https://github.com/Mecheri-Abdellatif/Termux-VirusTotal-Scanner.git
 cd Termux-VirusTotal-Scanner
 chmod +x scanapps.sh
 ./scanapps.sh
