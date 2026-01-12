@@ -40,8 +40,8 @@ cd Termux-VirusTotal-Scanner
 
 2. **Run the setup script:**
 ```bash
-bash setup_vt.sh
-```
+bash setup_vt_scanner.sh
+
 
 3. **Get your VirusTotal API Key:**
 - Visit: [https://www.virustotal.com/gui/my-apikey](https://www.virustotal.com/gui/my-apikey)
